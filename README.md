@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Pluto Exchange](https://plutoexch.org/)
 
-- 🌱 I’m currently learning **React, JS, TS, Python**
+- 🌱 I’m currently learning **React, JS, TS and Python**
 
 - 👨‍💻 All of my projects are available at [https://itsvortex.dev/](https://itsvortex.dev/)
 
