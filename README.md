@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **React, JS, TS and Python**
 
-- 👨‍💻 All of my projects are available at [https://itsvortex.dev/](https://itsvortex.dev/)
-
 - 📫 How to reach me **https://discord.com/users/987497813854281730**
 
 - ⚡ Fun fact **I have a cute cat**
