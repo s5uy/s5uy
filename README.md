@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, JS, TS and Python**
 
-- 📫 How to reach me **https://discord.com/users/987497813854281730**
+- 📫 How to reach me **thaaatym@gmail.com**
 
 - ⚡ Fun fact **I have a cute cat**
 
